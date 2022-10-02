@@ -5,6 +5,6 @@ Analysis Notebook.ipynb - Contins the code for analysis
 
 Dash Notebook - Notebook for webapp
 
-Report.pdf - Contains the report and observations
+report.pdf - Contains the report and observations
 
-Website - PDF output of the webapp
+website.pdf - PDF output of the webapp
